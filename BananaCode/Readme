@@ -1,0 +1,7 @@
+To Run use this command :
+ruby -r minitest currency.rb
+
+or
+
+control + r
+
